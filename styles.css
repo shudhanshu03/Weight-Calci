@@ -1,0 +1,9 @@
+body{
+    margin-top: 100px;
+    background-image: linear-gradient(to right, #d7385e , #51adcf);;
+    color: #fff;
+}
+
+.title{
+    text-shadow: 2px 2px 8px #FF0000;;
+}
